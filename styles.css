@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#sq{
+    display: grid;
+    grid-template-columns: 200px 200px;
+    grid-template-rows: 100px 100px;
+}
